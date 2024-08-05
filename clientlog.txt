@@ -1,0 +1,12 @@
+RES 𝐻𝑒𝓁𝓁𝑜 𝓌𝑜𝓇𝓁𝒹!
+RES 𝕳𝖊𝖑𝖑𝖔 𝖜𝖔𝖗𝖑𝖉!
+RES ！＠＄％％＾＆ｄｈｋａｓｈｕｉｏｅｗ９５０５４０－＝｛｝
+RES boldcursive, boldgothic, circle, cursive, double, fullwidth, gothic
+RES boldcursive, boldgothic, circle, cursive, double, fullwidth, gothic
+ERR Invalid font provided
+RES cursive: 𝒯𝒽𝒾𝓈 𝒾𝓈 𝒶 𝓉𝑒𝓈𝓉 𝓈𝓉𝓇𝒾𝓃𝑔 123.
+gothic: 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔞 𝔱𝔢𝔰𝔱 𝔰𝔱𝔯𝔦𝔫𝔤 123.
+double: 𝕋𝕙𝕚𝕤 𝕚𝕤 𝕒 𝕥𝕖𝕤𝕥 𝕤𝕥𝕣𝕚𝕟𝕘 123.
+fullwidth: Ｔｈｉｓ ｉｓ ａ ｔｅｓｔ ｓｔｒｉｎｇ １２３．
+circle: Ⓣⓗⓘⓢ ⓘⓢ ⓐ ⓣⓔⓢⓣ ⓢⓣⓡⓘⓝⓖ ①②③.
+
